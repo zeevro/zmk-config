@@ -1,0 +1,8 @@
+file_format: "1"
+id: gamepad
+name: GamePad gaming keyboard
+type: shield
+url: https://github.com/zeevro/
+requires: [pro_micro]
+features:
+  - keys
