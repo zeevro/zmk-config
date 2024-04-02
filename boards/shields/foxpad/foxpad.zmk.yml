@@ -1,0 +1,8 @@
+file_format: "1"
+id: foxpad
+name: FoxPad One-Handed Keyboard
+type: shield
+url: https://github.com/zeevro/
+requires: [pro_micro]
+features:
+  - keys
