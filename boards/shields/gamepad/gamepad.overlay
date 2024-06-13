@@ -34,5 +34,7 @@
             , <&pro_micro 16 GPIO_ACTIVE_LOW>
             , <&pro_micro 10 GPIO_ACTIVE_LOW>
             ;
+
+        debounce-press-ms = <1>;
     };
 };
